@@ -8,6 +8,7 @@ public class SpringbootGradleProjectSettingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootGradleProjectSettingApplication.class, args);
+		System.out.println("hi");
 	}
 
 }
